@@ -1,0 +1,109 @@
+%-------------------------------------------------------------------------------------------------------------------------
+% Dokument f"ur die ZvL-Geschichte "uber die Wiederentdekcung des San-Titels im SW-Jahre 415.
+% Hintergrund ist das die Zauberer von Loh im Jahre 415 ihre eigentlichen Wurzeln nicht mehr pr"asent haben
+% und einen Weg suchen ihre alten Traditionen wiedre zu finden.
+%
+% Autoren: Jan H. Kr"uger, Andre Engelbertz
+%
+% Erstellt: 20.04.2004
+%-------------------------------------------------------------------------------------------------------------------------
+% "Anderungen:
+% 20.04.2004: Erstellung und grobes Layout
+% 21.04.2004: Fortf"uhrung der Geschichte mit Hauptaugenmerk auf die Geschehnisse in der Vergangenheit.
+%             "Anderung am Layout, Einf"ugen von FancyHeadern sowie dem ZvL und Olimanir-Logo
+% 22.04.2004: Fortf"uhrung, Einbinden der Geschichte um \tiername. Einf"ugen des Glossars.
+%
+% Geplante "Anderungen: Fortf"uhrung und Abschluss der Geschichte.
+%-------------------------------------------------------------------------------------------------------------------------
+ 
+
+\documentclass[11pt, twocolumn, a4paper, titlepage]{book}
+\usepackage{ngerman, fancyhdr, graphicx}
+\setlength{\headheight}{14.0pt}
+\pagenumbering{arabic}
+\setlength{\parindent}{0pt}
+\newcommand{\Charname}{Pummelwurst }
+\newcommand{\camaronposition}{Camaron }
+\newcommand{\Kurzname}{Flitwig }
+\newcommand{\samm}{San Achanjati }
+\newcommand{\zvl}{Zauberer von Loh }
+\newcommand{\tiername}{Vertat }
+\newcommand{\andremail}{andre.engelbertz@gmx.de}
+\newcommand{\mail}{insulae@janhkrueger.de}
+
+\hyphenation {Weges-rand Schauf-fel-zau-ber Phe-ron Zau-ber Ma-gie Mi-no-tau-ren Pum-mel-wurst}
+
+\pagestyle{fancy}
+
+
+
+\begin{document}
+
+\fancyhead[L]
+{ \LARGE{Glossar} }
+
+\fancyhead[C]
+{ }
+
+\fancyhead[R]
+{ Stand: \today }
+
+\fancyfoot[l]
+{ %Einf"ugen des Olimanirwappens
+\begin{picture}(0,0)
+      \put(455,-40)
+      {
+         \includegraphics[scale=0.40]{olimanir.png}
+      }
+\end{picture}
+%Einf"ugen des ZvL-Wappens
+\begin{picture}(0,0)
+      \put(285,-30)
+      {
+         \includegraphics[scale=0.40]{ZvL.jpg}
+      }
+\end{picture}
+}
+
+
+\fancyfoot[r]
+{ \small{http://www.die-zauberer-von.loh.de/forum} }
+
+\title{ \Huge{Story {\"u}ber die Wiederentdeckung der Sans}}
+
+\author{
+    Jan H. Kr{\"u}ger\thanks{\mail}
+\and
+    Andre Engelbertz\thanks{\andremail}
+}
+\date{Bad Homburg den \today}
+
+%Glossar mit wichtigen Begriffen
+\begin{description}
+\item[Clepsydra]Vergleichbar mit einer Sanduhr, einziges Zeitmessgerät.
+\item[Dom]Freundschaftliche Anrede. Gleichzusetzen mit Kumpel.
+\item[Dopa]Ein feuriger Schnaps, der einen in k"ampferische Extase treibt.
+\item[Eisgletscher von Sicce]Dorthin kommt die Seele wenn man stirbt.
+\item[Jikai]Bezeichnung f"ur einen schwierigen Kampf.
+\item[Jikaida]bevorzugtes,sehr beliebtes Brettspiel.
+\item[Kapt]Bezeichnung f"ur einen Armeegeneral.
+\item[Ib]Geist und Seele.
+\item[Lahal]Offizielle Begr"ußungsanrede unter den Zauberern von Loh. F"ur Freunde gedacht im Unterschied zu Llahal.
+\item[Leem]Verabscheuungsw"urdige Gottheit der Kinderopfer gebracht werden.
+\item[Llahal]Formelle Begr"ußungsandre für Fremde.
+\item[Llanitsch]Halt!
+\item[Loh]Tropfenf"ormiger Heimatkontinent der Zauberer von Loh.
+\item[Lupu]Zustand in den ein Zauberer sich versetzt um an einem anderen Ort etwas auszuspionieren oder jemandem etwas mitzuteilen.
+\item[Luz]Grosse rote Sonne.
+\item[Lynxter]Lohisches Schwert.
+\item[Paktun]Anderes Wort f"ur S"oldner.
+\item[Remberee]Abschiedsfloskel welche von den Bewohnern von Loh benutzt wird. Vergleichbar mit Auf Wiedersehen.
+\item[San]Titel der f"ur Weiser/Gelehrter steht und Zauberern/Priestern verliehen wird.
+\item[Sazz]Alkoholfreies Getr"ank das gut den Durst l"oscht.
+\item[Walfarg]Grosses Reich von dem einst Loh den Mittelpunkt bildete.
+\item[Walig]kleine gr"une Sonne.
+\item[ZvL]Abk"urzung für Zauberer von Loh.
+\end{description}
+
+\end{document}
+
