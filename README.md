@@ -1,2 +1,2 @@
-# sw-images
-BackUp of the images from the no longer present german browsergame Scherbenwelten.
+# sw-public
+BackUp of the public content from the no longer present german browsergame Scherbenwelten.
