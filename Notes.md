@@ -2,7 +2,7 @@
 
 
 
-### SW - Wichtelbevölkerung aus der Statistik lesen: -- Entfernen der unnoetigen Informationen gleich bei den Abfrage
+##### SW - Wichtelbevölkerung aus der Statistik lesen: -- Entfernen der unnoetigen Informationen gleich bei den Abfrage
 
 SELECT surveydate, REPLACE(REPLACE(REPLACE(uselessInformationContent,'In den hiesigen Städten hausen ',''),'Wichtel.',''),'.','')  FROM uselessInformation
 WHERE uselessInformationContent LIKE ('In den hiesigen Städten hausen % Wichtel%')
