@@ -1,0 +1,1 @@
+- [ ] SW - Ältester noch lesbarer Foreneintrag: Der letzte noch im Forum zu lesende Vorschlag im Vorschlagsforum ist "Eigener Avatar" vom am 14.01.04 1:36, geschrieben von "TheUnknownWarrior"
