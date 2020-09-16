@@ -1,0 +1,7 @@
+/* CSS-Definitionsdatei, die SiteStyle -Stylesheets enthält */
+BODY { background-color: rgb(51,51,51);}
+ A:active { color: rgb(153,102,0);}
+ A:link { color: rgb(0,0,0);}
+ A:visited { color: rgb(0,102,0);}
+ A:hover { color: rgb(255,153,51); font-weight: bold;}
+ 
