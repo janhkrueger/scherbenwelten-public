@@ -1,0 +1,17 @@
+t2(3500,-1000,"Nordmeer des Ewigen Eises",25,"see");
+t2(4500,-1030,"Weißer Ozean",25,"see");
+t2(3200,-60,"Splittermeer",25,"see");
+t2(3800,-340,"Meer der Glückseligkeit",25,"see");
+t2(4600,-370,"Meer der Stille",25,"see");
+t2(4700,290,"Gestade des Aufbruchs",25,"see");
+t2(3900,560,"Meer der Mitte",25,"see");
+t2(3100,1070,"Portal des Westens",25,"see");
+t2(4640,1050,"Nebelmeer der Sieben Sünden",25,"see");
+t2(5300,100,"Bendurs Wogen der Ferne",25,"see");
+t2(5280,1120,"Meer der Horizonte",25,"see");
+t2(3100,1780,"See der Verlorenen Seelen",25,"see");
+t2(3920,1650,"Fluch des Seefahrers",25,"see");
+t2(4860,1870,"Grüne Hölle der Südsee",25,"see");
+t2(4260,470,"Bucht",20,"see");
+t2(4370,540,"der",20,"see");
+t2(4320,660,"Sieben",20,"see");

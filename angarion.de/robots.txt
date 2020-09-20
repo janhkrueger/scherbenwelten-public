@@ -1,0 +1,26 @@
+User-agent: Fasterfox
+Disallow: /
+
+User-agent: *
+Disallow: /administrator/
+Disallow: /backup/
+Disallow: /cache/
+Disallow: /cgi-bin/
+Disallow: /components/
+Disallow: /css/
+Disallow: /editor/
+Disallow: /help/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /language/
+Disallow: /mambots/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /templates/
+Disallow: /installation_1/
+
+Allow: /angarion/
+Allow: /angarion/game/
+Allow: /angarion/makechar/
+Disallow: /angarion/_secure/
+Disallow: /angarion/old/

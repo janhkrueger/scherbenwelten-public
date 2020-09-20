@@ -1,0 +1,16 @@
+.scr
+ {white-space:nowrap; font-weight: bold; color:#000000; font-size: large; font-family:'Times New Roman, Arial'}
+
+.see
+ {white-space:nowrap; font-weight: bold; color:#0060FF; font-size: large; font-family:'Times New Roman, Arial'}
+
+body
+{
+   scrollbar-arrow-color:#FFCC00;
+   scrollbar-face-color:#006600;
+   scrollbar-highlight-color:#FFCC00;
+   scrollbar-3dlight-color:#990000;
+   scrollbar-shadow-color:#660000;
+   scrollbar-darkshadow-color:#666666;
+   scrollbar-track-color:#009900;
+}
