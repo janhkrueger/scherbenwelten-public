@@ -18,6 +18,7 @@ http://loki.webtales.4players.de/webpagel.php
 
 [Das Lied der Sternenwoelfe](DasLiedDerSternenwoelfe.md)\
 [Kaperfahrerhymne](Kaperfahrerhymne.md)\
+[Olimanir Kills Untotenfürsten](Olimanir_Kills_Untotenfuersten.md)\
 [Riesensichtungen](SW-Riesen.md)
 
 # Tura Konvent
