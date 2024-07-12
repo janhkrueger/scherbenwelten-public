@@ -12,3 +12,11 @@ The game was active during the time
 
 Zuletzt erreichbare Adresse:
 http://loki.webtales.4players.de/webpagel.php
+
+
+
+# Tura Konvent
+
+[Protektionen](Tura_Protektion.md)\
+[Ritterschutz](Tura_Ritterschutz.md)\
+[Verkünder](Tura_Verkuender.md)
