@@ -4,6 +4,7 @@ BackUp of the public content from the no longer present german browsergame Scher
 The game was active during the time
 
 24.02.2002 - Abschluß der Alphaphase, Beginn der Betaphase
+
 19.04.2016 - Einstellung der Webpräsenz und Abschaltung der Ausweichserver
 
 
