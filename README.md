@@ -17,15 +17,15 @@ http://loki.webtales.4players.de/webpagel.php
 # Sonstiges
 
 [Das Lied der Sternenwoelfe](files/DasLiedDerSternenwoelfe.md)\
-[Kaperfahrerhymne](Kaperfahrerhymne.md)\
-[Olimanir Kills Untotenfürsten](Olimanir_Kills_Untotenfuersten.md)\
-[Riesensichtungen](SW-Riesen.md)
+[Kaperfahrerhymne](files/Kaperfahrerhymne.md)\
+[Olimanir Kills Untotenfürsten](files/Olimanir_Kills_Untotenfuersten.md)\
+[Riesensichtungen](files/SW-Riesen.md)
 
 # Tura Konvent
 
-[Protektionen](Tura_Protektion.md)\
-[Ritterschutz](Tura_Ritterschutz.md)\
-[Verkünder](Tura_Verkuender.md)
+[Protektionen](files/Tura_Protektion.md)\
+[Ritterschutz](files/Tura_Ritterschutz.md)\
+[Verkünder](files/Tura_Verkuender.md)
 
 # Webpräsenzen und Beschreibungen
 
