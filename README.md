@@ -16,6 +16,7 @@ http://loki.webtales.4players.de/webpagel.php
 
 # Sonstiges
 
+[Das Lied der Sternenwoelfe](DasLiedDerSternenwoelfe.md)\
 [Kaperfahrerhymne](Kaperfahrerhymne.md)\
 [Riesensichtungen](SW-Riesen.md)
 
