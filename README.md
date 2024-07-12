@@ -14,6 +14,9 @@ Zuletzt erreichbare Adresse:
 http://loki.webtales.4players.de/webpagel.php
 
 
+# Sonstiges
+
+[Riesensichtungen](SW-Riesen.md)
 
 # Tura Konvent
 
