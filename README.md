@@ -5,7 +5,7 @@ The game was active during the time
 
 24.02.2002 - Abschluß der Alphaphase, Beginn der Betaphase
 
-01.07.15 - Ankündigung das Webtales die Tore schliesst. Man sei "bemüht" eine Lösung für Scherbenwelten zu finden.
+01.07.2015 - Ankündigung das Webtales die Tore schliesst. Man sei "bemüht" eine Lösung für Scherbenwelten zu finden.
 
 19.04.2016 - Einstellung der Webpräsenz und Abschaltung der Ausweichserver
 
