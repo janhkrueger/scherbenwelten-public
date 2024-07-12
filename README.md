@@ -16,6 +16,7 @@ http://loki.webtales.4players.de/webpagel.php
 
 # Sonstiges
 
+[Kaperfahrerhymne](Kaperfahrerhymne.md)\
 [Riesensichtungen](SW-Riesen.md)
 
 # Tura Konvent
