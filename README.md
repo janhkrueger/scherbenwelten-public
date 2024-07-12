@@ -16,7 +16,7 @@ http://loki.webtales.4players.de/webpagel.php
 
 # Sonstiges
 
-[Das Lied der Sternenwoelfe](DasLiedDerSternenwoelfe.md)\
+[Das Lied der Sternenwoelfe](files/DasLiedDerSternenwoelfe.md)\
 [Kaperfahrerhymne](Kaperfahrerhymne.md)\
 [Olimanir Kills Untotenfürsten](Olimanir_Kills_Untotenfuersten.md)\
 [Riesensichtungen](SW-Riesen.md)
