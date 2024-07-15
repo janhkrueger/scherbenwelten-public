@@ -13,7 +13,6 @@ The game was active during the time
 Zuletzt erreichbare Adresse:
 http://loki.webtales.4players.de/webpagel.php
 
-
 # Sonstiges
 
 [Das Lied der Sternenwoelfe](files/DasLiedDerSternenwoelfe.md)\
@@ -27,9 +26,13 @@ http://loki.webtales.4players.de/webpagel.php
 [Ritterschutz](files/Tura_Ritterschutz.md)\
 [Verkünder](files/Tura_Verkuender.md)
 
+# Interviews
+
+[Interview Browsergameclub.de Galactic Tales](files/Interview_Browsergameclub_GalacticTales.md)
+
 # Webpräsenzen und Beschreibungen
 
-Webpraesenz zu Scherbenwelten 
+Webpräsenz zu Scherbenwelten 
 Zu erst die Webseite von Scherbenwelten selbst. www.scherbenwelten.de
   
 
