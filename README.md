@@ -65,3 +65,9 @@ http://forum.gdynamite.de/profil2732.htm
   
 
 http://www.gamingfacts.de/gamesindex.php?was=zeigeGame&id=105 
+
+
+# Scripts
+
+[Überflüssige Informationen der Stunde auslesen](UselessInformationsOfTheHour.sh)
+
