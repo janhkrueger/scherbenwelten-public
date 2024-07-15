@@ -15,6 +15,7 @@ http://loki.webtales.4players.de/webpagel.php
 
 # Sonstiges
 
+[Leitfaden Götter](files/Leitfaden_Goetter.md)\
 [Leitfaden Olimanir](files/Leitfaden_Olimanir.md)\
 [Das Lied der Sternenwoelfe](files/DasLiedDerSternenwoelfe.md)\
 [Kaperfahrerhymne](files/Kaperfahrerhymne.md)\
