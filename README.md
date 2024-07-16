@@ -34,6 +34,9 @@ http://loki.webtales.4players.de/webpagel.php
 
 # Webpräsenzen und Beschreibungen
 
+
+[Artikel auf Heise](files/Heise_Multiplayer-Spiele_per_Webbrowser.md)
+
 Webpräsenz zu Scherbenwelten 
 Zu erst die Webseite von Scherbenwelten selbst. www.scherbenwelten.de
   
