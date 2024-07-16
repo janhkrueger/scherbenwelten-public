@@ -13,6 +13,9 @@ The game was active during the time
 Zuletzt erreichbare Adresse:
 http://loki.webtales.4players.de/webpagel.php
 
+# Charaktere
+[Flitwig-ni Su](files/Flitwig-ni_Su.md)
+
 # Sonstiges
 
 [Leitfaden Götter](files/Leitfaden_Goetter.md)\
@@ -37,40 +40,39 @@ http://loki.webtales.4players.de/webpagel.php
 
 [Artikel auf Heise](files/Heise_Multiplayer-Spiele_per_Webbrowser.md)
 
-Webpräsenz zu Scherbenwelten 
+Webpräsenz zu Scherbenwelten
 Zu erst die Webseite von Scherbenwelten selbst. www.scherbenwelten.de
-  
+ 
 
-Auf dem Browsergame-Portal http://scherbenwelten.browsergames.de/ 
-Hier ist eine Testbeschreibung hinterlegt, welche jedoch inhaltlich an die Beschreibung auf der Startseite von Scherbenwelten erinnert. 
-Die Screenshots geben einen kurzen Einblick, doch oft fehlt der Kontext. Hier waere es gut wenn ein kurzer Beschreibender Satz unter einem Bild zu sehen ist. Zum Beispiel ist die Liste der Nationen voellig unnuetz da aus dem Bild nicht klar ist worum es sich ueberhaupt handelt. 
+Auf dem Browsergame-Portal http://scherbenwelten.browsergames.de/
+Hier ist eine Testbeschreibung hinterlegt, welche jedoch inhaltlich an die Beschreibung auf der Startseite von Scherbenwelten erinnert.
+Die Screenshots geben einen kurzen Einblick, doch oft fehlt der Kontext. Hier waere es gut wenn ein kurzer Beschreibender Satz unter einem Bild zu sehen ist. Zum Beispiel ist die Liste der Nationen voellig unnuetz da aus dem Bild nicht klar ist worum es sich ueberhaupt handelt.
 
-  
-http://www.galaxy-news.de/games/26_scherbenwelten.html 
-SW ist hier bereits recht lange vertreten (09.12.04). Das Portal wird an sich auch gut frequentiert. Leider ist hier ausser dem Einleitungstext nichts weiter hinterlegt. Auch der Service, bei Aenderungen diese ueber die News des Portales bekannt zu machen, wird nicht genutzt. Alles in allem eine verschenkte Chance. Dazu kommt das in einer Mehrzahl der Kommentare pampig reagiert wird wenn jemand feststellt das dieses Spiel etwas kostet. „Kannst aj sowas anspruchloses wie OGame zocken“ 
+ 
+http://www.galaxy-news.de/games/26_scherbenwelten.html
+SW ist hier bereits recht lange vertreten (09.12.04). Das Portal wird an sich auch gut frequentiert. Leider ist hier ausser dem Einleitungstext nichts weiter hinterlegt. Auch der Service, bei Aenderungen diese ueber die News des Portales bekannt zu machen, wird nicht genutzt. Alles in allem eine verschenkte Chance. Dazu kommt das in einer Mehrzahl der Kommentare pampig reagiert wird wenn jemand feststellt das dieses Spiel etwas kostet. „Kannst aj sowas anspruchloses wie OGame zocken“
 
-  
-http://www.webmystar.de/downloads/singlefile.php?cid=51&lid=379 
-Seltsamerweise auch hier, wobei der Eintrag vom Administrator erst (wieder?) am 07.07.2009 erstellt wurde. Deckt sich aber auch in grossen Teilen mit dem Einleitungstext von SW. 
-Die Systemvorrausetzungen stimmen nicht. Java, Flash und Shockwave werden für SW nicht benoetigt. Der als „free“ bezeichnete Preis ist, sollte jemand diese Seite als Anlass nehmen sich für SW zu interessieren, irrefuehrend und falsch. Interessanterweise führt zu SW ein Downloadlink… 
+ 
+http://www.webmystar.de/downloads/singlefile.php?cid=51&lid=379
+Seltsamerweise auch hier, wobei der Eintrag vom Administrator erst (wieder?) am 07.07.2009 erstellt wurde. Deckt sich aber auch in grossen Teilen mit dem Einleitungstext von SW.
+Die Systemvorrausetzungen stimmen nicht. Java, Flash und Shockwave werden für SW nicht benoetigt. Der als „free“ bezeichnete Preis ist, sollte jemand diese Seite als Anlass nehmen sich für SW zu interessieren, irrefuehrend und falsch. Interessanterweise führt zu SW ein Downloadlink…
 
-  
-http://www.gamessphere.de/games/browsergames/scherbenwelten/734/index.html 
-Deja Vu. Auch hier der bekannte Beschreibungstext. Das Spiel selbst ist dort erst seit 10.08.08. Aber sonst nicht wirklich informativ. Keine Kommentare, keine Screenshots. Eine lieblose Beschreibung welche gemacht wurde um auf diesem Portal aktiv zu sein. 
+ 
+http://www.gamessphere.de/games/browsergames/scherbenwelten/734/index.html
+Deja Vu. Auch hier der bekannte Beschreibungstext. Das Spiel selbst ist dort erst seit 10.08.08. Aber sonst nicht wirklich informativ. Keine Kommentare, keine Screenshots. Eine lieblose Beschreibung welche gemacht wurde um auf diesem Portal aktiv zu sein.
 
-http://mmbg.net/ 
+http://mmbg.net/
 Dazu hatte ich ja bereits einmal etwas geschrieben.
 
-http://bgs.gdynamite.de/games.php?game=146 
-Auch hier wieder das uebliche. Drei Kommentare, aber seit langem nichts aktives mehr. Die dunklen Screenshots wirken eher abschreckend. 
+http://bgs.gdynamite.de/games.php?game=146
+Auch hier wieder das uebliche. Drei Kommentare, aber seit langem nichts aktives mehr. Die dunklen Screenshots wirken eher abschreckend.
 
-http://forum.gdynamite.de/profil2732.htm 
-  
+http://forum.gdynamite.de/profil2732.htm
+ 
 
-http://www.gamingfacts.de/gamesindex.php?was=zeigeGame&id=105 
+http://www.gamingfacts.de/gamesindex.php?was=zeigeGame&id=105
 
 
 # Scripts
 
 [Überflüssige Informationen der Stunde auslesen](UselessInformationsOfTheHour.sh)
-
