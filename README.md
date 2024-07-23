@@ -44,7 +44,7 @@ http://loki.webtales.4players.de/webpagel.php
 - [Franken-Tool-Wiki](http://www.franken-tool.de/hilfe/index.php?title=Hauptseite)
 - [Inselpioniere](https://inselpioniere.de) (__INACTIVE__)
 - [Scherbenwelten (WIS)](https://www.startnext.com/scherbenwelten) (__INACTIVE__)
-- [Scherbenkarte (Angarion)](http://angarion.de/sw/scherbenkarte/sw_karte.html)
+- [Scherbenkarte (Angarion)](http://angarion.de/sw/scherbenkarte/sw_karte.html) (__INACTIVE__)
 - [Scherbenkarte (Freya san Gordar)](http://web89.server-drome.net/scherbenkarte/)
 - [Beleggrodion's Karten Archiv V 2.0.0](http://solarwars.nextgen.ch/projects/sw/) (__INACTIVE__)
 - [www.scherbenwelten.de WebArchiv 05.10.2002](http://web.archive.org/web/20021005194549/www.scherbenwelten.de/start.php)
