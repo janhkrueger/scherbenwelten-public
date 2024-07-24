@@ -13,17 +13,17 @@ The game was active during the time
 Zuletzt erreichbare Adresse:
 http://loki.webtales.4players.de/webpagel.php
 
-# Forum
+## Forum
 
 Das alte [Forum](https://janhkrueger.github.io/scherbenwelten-forum/public/index.html) ist gesichert und kann eingesehen werden.
 
 Das zugrundeliegende [Repository](https://github.com/janhkrueger/scherbenwelten-forum) ist öffentlich, kann geklont werden und mit Pullrequests angepasst.
 
-# Charaktere
+## Charaktere
 [Flitwig-ni Su](files/Flitwig-ni_Su.md)\
 [San Achanjiati](files/San_Achanjiati.md)
 
-# Sonstiges
+## Sonstiges
 
 [Leitfaden Götter](files/Leitfaden_Goetter.md)\
 [Leitfaden Olimanir](files/Leitfaden_Olimanir.md)\
@@ -32,17 +32,17 @@ Das zugrundeliegende [Repository](https://github.com/janhkrueger/scherbenwelten-
 [Olimanir Kills Untotenfürsten](files/Olimanir_Kills_Untotenfuersten.md)\
 [Riesensichtungen](files/SW-Riesen.md)
 
-# Tura Konvent
+## Tura Konvent
 
 [Protektionen](files/Tura_Protektion.md)\
 [Ritterschutz](files/Tura_Ritterschutz.md)\
 [Verkünder](files/Tura_Verkuender.md)
 
-# Interviews
+## Interviews
 
 [Interview Browsergameclub.de Galactic Tales](files/Interview_Browsergameclub_GalacticTales.md)
 
-# Scherbenwelten related links
+## Scherbenwelten related links
 - [TGWNN - Dem Spiel ohne Namen](https://tgwnn.rpgame.de/)
 - [Quest of Islands](https://www.questofislands.com/)
 - [Quest of Islands Trello Board](https://trello.com/b/ivV6TEX9/quest-of-islands) (__RETIRED__)
@@ -56,7 +56,7 @@ Das zugrundeliegende [Repository](https://github.com/janhkrueger/scherbenwelten-
 - [www.scherbenwelten.de WebArchiv 05.10.2002](http://web.archive.org/web/20021005194549/www.scherbenwelten.de/start.php)
 - [www.scherbenwelten.de WebArchiv 14.08.2002](http://web.archive.org/web/20020813233137/www.scherbenwelten.de/start.php)
 
-# Webpräsenzen und Beschreibungen
+## Webpräsenzen und Beschreibungen
 
 
 [Artikel auf Heise](files/Heise_Multiplayer-Spiele_per_Webbrowser.md)
@@ -94,6 +94,6 @@ http://forum.gdynamite.de/profil2732.htm
 http://www.gamingfacts.de/gamesindex.php?was=zeigeGame&id=105
 
 
-# Scripts
+## Scripts
 
 [Überflüssige Informationen der Stunde auslesen](UselessInformationsOfTheHour.sh)
