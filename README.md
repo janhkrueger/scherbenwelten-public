@@ -13,6 +13,12 @@ The game was active during the time
 Zuletzt erreichbare Adresse:
 http://loki.webtales.4players.de/webpagel.php
 
+# Forum
+
+Das alte [Forum](https://janhkrueger.github.io/scherbenwelten-forum/public/index.html) ist gesichert und kann eingesehen werden.
+
+Das zugrundeliegende [Repository](https://github.com/janhkrueger/scherbenwelten-forum) ist öffentlich, kann geklont werden und mit Pullrequests angepasst.
+
 # Charaktere
 [Flitwig-ni Su](files/Flitwig-ni_Su.md)\
 [San Achanjiati](files/San_Achanjiati.md)
