@@ -54,14 +54,18 @@ Das zugrundeliegende [Repository](https://github.com/janhkrueger/scherbenwelten-
 - [Franken-Tool-Wiki](http://www.franken-tool.de/hilfe/index.php?title=Hauptseite)
 - [Inselpioniere](https://inselpioniere.de) (__INACTIVE__)
 - [Scherbenwelten (WIS)](https://www.startnext.com/scherbenwelten) (__INACTIVE__)
-- [Scherbenkarte (Angarion)](http://angarion.de/sw/scherbenkarte/sw_karte.html) (__INACTIVE__)
+- [Scherbenkarte (Angarion)](http://angarion.de/sw/scherbenkarte/sw_karte.html) (__INACTIVE__) [Backup](angarion.de/sw/scherbenkarte/sw_karte.html)
 - [Scherbenkarte (Freya san Gordar)](http://web89.server-drome.net/scherbenkarte/)
 - [Beleggrodion's Karten Archiv V 2.0.0](http://solarwars.nextgen.ch/projects/sw/) (__INACTIVE__)
 - [www.scherbenwelten.de WebArchiv 05.10.2002](http://web.archive.org/web/20021005194549/www.scherbenwelten.de/start.php)
 - [www.scherbenwelten.de WebArchiv 14.08.2002](http://web.archive.org/web/20020813233137/www.scherbenwelten.de/start.php)
 
-## Webpräsenzen und Beschreibungen
 
+## Alte Communityseiten
+
+[Flitwig-ni Su](files/Flitwig-ni_Su.md)\
+
+## Webpräsenzen und Beschreibungen
 
 [Artikel auf Heise](files/Heise_Multiplayer-Spiele_per_Webbrowser.md)
 
