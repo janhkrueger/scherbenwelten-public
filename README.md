@@ -32,6 +32,10 @@ Das zugrundeliegende [Repository](https://github.com/janhkrueger/scherbenwelten-
 [Olimanir Kills Untotenfürsten](files/Olimanir_Kills_Untotenfuersten.md)\
 [Riesensichtungen](files/SW-Riesen.md)
 
+## Stadtberechnungen
+[luxusgewinn.xlsx](files/TownCalculators/luxusgewinn.xlsx)\
+[Stadtmodell_Joerg.xlsx](files/TownCalculators/Stadtmodell_Joerg.xlsx)
+
 ## Tura Konvent
 
 [Protektionen](files/Tura_Protektion.md)\
